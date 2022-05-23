@@ -1,0 +1,10 @@
+MEME version 5.4.1 (Mon Aug 16 16:18:19 2021 -0700)
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+A 0.25000 C 0.25000 G 0.25000 T 0.25000 
+
+

@@ -1,0 +1,13 @@
+======================================================
+Start Time  : Wed Apr 13 18:15:29 EDT 2022
+Submit Dir  : /users/dwils152/prosampler/streme_files/encode_k562/fasta_from_bed/fasta
+Job ID/Name : 680212 / fetch_center
+Num Tasks   : 1 total [1 nodes @ 1 CPUs/node]
+======================================================
+
+Loading meme/5.4.1
+  Loading requirement: openmpi/4.1.0
+Hello World! I ran on compute node str-c35
+
+======================================================
+End Time   : Wed Apr 13 18:15:36 EDT 2022
