@@ -1,0 +1,61 @@
+********************************************************************************
+STREME - Sensitive, Thorough, Rapid, Enriched Motif Elicitation
+********************************************************************************
+MEME version 5.4.1 (Release date: Sat Aug 21 19:23:23 2021 -0700)
+
+For further information on how to interpret these results please access https://meme-suite.org/meme.
+To get a copy of the MEME Suite software please access https://meme-suite.org.
+
+********************************************************************************
+
+
+********************************************************************************
+REFERENCE
+********************************************************************************
+If you use this program in your research, please cite:
+
+Timothy L. Bailey,
+"STREME: accurate and versatile sequence motif discovery",
+Bioinformatics, Mar. 24, 2021.
+********************************************************************************
+
+methods for multiple hypothesis testing correction of t-test: *No correction
+ALPHABET= ACGT
+
+Strands: + -
+
+Background letter frequencies (from dataset):
+A 0.2316 C 0.2703 G 0.2591 T 0.239
+
+MOTIF TCTCGCGAGA TCTCGCGAGA ProSampler
+
+letter-probability matrix: alength= 4 w= 10 nsites= 8 score= 2.853 pvalue= 0.003907
+0.0000 0.0000 0.0000 1.0000
+0.0000 1.0000 0.0000 0.0000
+0.0000 0.0000 0.0000 1.0000
+0.0000 1.0000 0.0000 0.0000
+0.0000 0.0000 1.0000 0.0000
+0.0000 1.0000 0.0000 0.0000
+0.0000 0.0000 1.0000 0.0000
+1.0000 0.0000 0.0000 0.0000
+0.0000 0.0000 1.0000 0.0000
+1.0000 0.0000 0.0000 0.0000
+
+
+MOTIF AGGTGTGAAA TTTCACACCT ProSampler
+
+letter-probability matrix: alength= 4 w= 10 nsites= 7 score= 2.669 pvalue= 0.007095
+1.0000 0.0000 0.0000 0.0000
+0.0000 0.0000 1.0000 0.0000
+0.0000 0.0000 1.0000 0.0000
+0.0000 0.0000 0.0000 1.0000
+0.0000 0.0000 1.0000 0.0000
+0.0000 0.0000 0.0000 1.0000
+0.0000 0.0000 1.0000 0.0000
+1.0000 0.0000 0.0000 0.0000
+1.0000 0.0000 0.0000 0.0000
+1.0000 0.0000 0.0000 0.0000
+
+
+
+Time 1 secs.

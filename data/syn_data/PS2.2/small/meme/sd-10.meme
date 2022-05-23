@@ -1,0 +1,80 @@
+********************************************************************************
+STREME - Sensitive, Thorough, Rapid, Enriched Motif Elicitation
+********************************************************************************
+MEME version 5.4.1 (Release date: Sat Aug 21 19:23:23 2021 -0700)
+
+For further information on how to interpret these results please access https://meme-suite.org/meme.
+To get a copy of the MEME Suite software please access https://meme-suite.org.
+
+********************************************************************************
+
+
+********************************************************************************
+REFERENCE
+********************************************************************************
+If you use this program in your research, please cite:
+
+Timothy L. Bailey,
+"STREME: accurate and versatile sequence motif discovery",
+Bioinformatics, Mar. 24, 2021.
+********************************************************************************
+
+methods for multiple hypothesis testing correction of t-test: *No correction
+ALPHABET= ACGT
+
+Strands: + -
+
+Background letter frequencies (from dataset):
+A 0.2327 C 0.2659 G 0.2622 T 0.2392
+
+MOTIF GCGACCACACTG CAGTGTGGTCGC ProSampler
+
+letter-probability matrix: alength= 4 w= 12 nsites= 16 score= 4.033 pvalue= 4.691e-05
+0.0000 0.0625 0.9375 0.0000
+0.0000 1.0000 0.0000 0.0000
+0.0000 0.0000 1.0000 0.0000
+1.0000 0.0000 0.0000 0.0000
+0.0000 1.0000 0.0000 0.0000
+0.0000 1.0000 0.0000 0.0000
+1.0000 0.0000 0.0000 0.0000
+0.0000 1.0000 0.0000 0.0000
+0.8125 0.1875 0.0000 0.0000
+0.0000 1.0000 0.0000 0.0000
+0.0625 0.0625 0.0625 0.8125
+0.1875 0.1250 0.6875 0.0000
+
+
+MOTIF TCTCGCGAGA TCTCGCGAGA ProSampler
+
+letter-probability matrix: alength= 4 w= 10 nsites= 10 score= 3.188 pvalue= 0.00139
+0.0000 0.0000 0.0000 1.0000
+0.0000 1.0000 0.0000 0.0000
+0.0000 0.0000 0.0000 1.0000
+0.0000 1.0000 0.0000 0.0000
+0.0000 0.0000 1.0000 0.0000
+0.0000 1.0000 0.0000 0.0000
+0.0000 0.0000 1.0000 0.0000
+1.0000 0.0000 0.0000 0.0000
+0.0000 0.0000 1.0000 0.0000
+1.0000 0.0000 0.0000 0.0000
+
+
+MOTIF AAGGTGTGAAAA TTTTCACACCTT ProSampler
+
+letter-probability matrix: alength= 4 w= 12 nsites= 9 score= 3.024 pvalue= 0.00245
+0.7778 0.0000 0.1111 0.1111
+1.0000 0.0000 0.0000 0.0000
+0.0000 0.0000 1.0000 0.0000
+0.0000 0.0000 1.0000 0.0000
+0.0000 0.0000 0.0000 1.0000
+0.0000 0.0000 1.0000 0.0000
+0.0000 0.0000 0.0000 1.0000
+0.0000 0.0000 1.0000 0.0000
+1.0000 0.0000 0.0000 0.0000
+1.0000 0.0000 0.0000 0.0000
+0.8889 0.1111 0.0000 0.0000
+0.7778 0.0000 0.1111 0.1111
+
+
+
+Time 0 secs.
