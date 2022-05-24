@@ -1,0 +1,10 @@
+Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
+TCTCGCGAGA	MA0527.1	1	1.06198e-05	0.000106198	0.000106198	10	TCTCGCGAGA	CTCTCGCGAGATCTG	+
+TCTCGCGAGA	MA0907.1	0	0.0421485	0.421485	0.210742	10	TCTCGCGAGA	GCTCGTAAAAA	+
+AGGTGTGAAA	MA0800.1	1	1.83357e-05	0.000183357	0.000366713	10	AGGTGTGAAA	AAGGTGTGAAAAT	+
+AGGTGTGAAA	MA0796.1	4	0.0166155	0.166155	0.166155	8	AGGTGTGAAA	TGACAGCTGTCA	+
+AGGTGTGAAA	MA0698.1	5	0.0588463	0.588463	0.294231	8	AGGTGTGAAA	CATCCAGATGTTC	+
+
+# Tomtom (Motif Comparison Tool): Version 5.4.1 compiled on Jan 27 2022 at 20:32:53
+# The format of this file is described at https://meme-suite.org/meme/doc/tomtom-output-format.html.
+# tomtom -oc tomtom_sd-5.fa_out.meme_out_all_considered sd-5.fa_out.meme ../d1.meme
