@@ -1,0 +1,11 @@
+Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
+1-AACAATGGCAGTG	MA0866.1	0	2.00266e-07	2.00266e-06	4.00532e-06	13	AACAATGGCAGTG	AACAATGGTAGTGTT	+
+1-AACAATGGCAGTG	MA1120.1	1	0.00333404	0.0333404	0.0222269	10	AACAATGGCAGTG	AAACAATGGCA	+
+1-AACAATGGCAGTG	MA0641.1	-1	0.0583125	0.583125	0.291562	12	AACAATGGCAGTG	AACCCGGAAGTG	+
+3-CAGTGTGGTCGCGAC	MA0734.1	0	9.62566e-07	9.62566e-06	1.92513e-05	12	CAGTGTGGTCGCGAC	CAGTGTGGTCGC	-
+3-CAGTGTGGTCGCGAC	MA0527.1	-2	0.0455046	0.455046	0.455046	13	CAGTGTGGTCGCGAC	CAGATCTCGCGAGAG	-
+4-CTCGTAAAAA	MA0907.1	1	1.98868e-06	1.98868e-05	3.97737e-05	10	CTCGTAAAAA	GCTCGTAAAAA	+
+
+# Tomtom (Motif Comparison Tool): Version 5.4.1 compiled on Jan 27 2022 at 20:32:53
+# The format of this file is described at https://meme-suite.org/meme/doc/tomtom-output-format.html.
+# tomtom -oc tomtom_sd-5.meme_out sd-5.meme /users/dwils152/prosampler/data/syn_data/pwm/d1.meme
